@@ -26,3 +26,12 @@
 - 💬 Ask me about React
 - 📫 Reach me at arif23s.001@gmail.com
 
+
+
+# Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,mongodb,firebase,css,html,postman,git,github," />
+  </a>
+</p>
