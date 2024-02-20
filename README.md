@@ -5,11 +5,11 @@
 
 <div align="center">
    <h3><strong>Hi, I am Arif Hossain</strong></h3>
-         A front-end developer 👨‍💻
+         A Full Stack developer 👨‍💻
 </div>
 
 #
-<p align="center">I am Arif Hossain.I am a professional React Frontend Developer.Learning is my passion. I am always eager to explore new technologies. My goal is to become a senior frontend developer in the next 2 years, and I am dedicated to achieving this.</p>
+<p align="center">I am Arif Hossain.I am a professional Full Stack Developer . Learning is my passion. I am always eager to explore new technologies. My goal is to become a senior  developer in the next 2 years, and I am dedicated to achieving this.</p>
 
 #
 
@@ -21,8 +21,8 @@
 ## About Me🧍‍♂️
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on  new job opportunities where I can contribute my skills as a front-end developer and be part of a dynamic team/company.
+- 🌱 I’m currently learning Typescript & Next.js
+- 👯 I’m looking to collaborate on career growth opportunities where I can contribute my skills as a junior web developer and be part of a dynamic team/company.
 - 🤔 Seeking guidance on networking and exploring potential job opportunities in this field. Open to advice and insights!
 - 💬 Ask me about React
 - 📫 Reach me at arif23s.001@gmail.com
@@ -33,6 +33,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,mongodb,firebase,css,html,postman,git,github," />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,mongodb,typescript,nextjs,firebase,css,html,postman,git,github," />
   </a>
 </p>
